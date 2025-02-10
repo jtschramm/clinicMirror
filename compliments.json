@@ -1,5 +1,12 @@
 {
-  "anytime": [
-    "Hey, it worked!",
+  "anytime": ["Hey it worked!"],
+  "morning": [
+    "Hey it worked!",
   ],
+  "afternoon": [
+    "Hey it worked!",
+  ],
+  "evening": [
+    "Hey it worked!",
+  ]
 }
